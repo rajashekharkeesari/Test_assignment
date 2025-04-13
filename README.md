@@ -6,7 +6,7 @@ pip install -r requirements.txt
 type on terminal  
 python main.py
 
-for cloning github  :
+for cloning github  : https://github.com/rajashekharkeesari/Test_assignment.git
 
 
 Solution Approach
